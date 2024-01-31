@@ -1,8 +1,9 @@
-# Level 300 - Minimal features for level 300
+# Level 300 - Recovering from unexpected data and situations
 
 1. Complete all minimal requirements from previous levels
 1. Tidy up the summaries: the original data for the episode summaries contained html tags such as `<p>`. If you haven't already done so, have your _code_ remove these from the string before displaying it on screen. Do **not** try to fix these by manually editing the data file(s)!
     1. Ensure this summary-cleaning functionality is extracted to a pure function and add a unit test for it.
+1. Ensure requests to pages which do not exist send back a 404 status code to the user and show a reasonable 404 page explaining what happened and offering the user a link back to your main page.
 1. Ensure the app works with different data. Change the data file (at least temporarily) so that it is [the data from The Simpsons](https://api.tvmaze.com/shows/83/episodes). This has been made available in the starter app. Then, ensure your app still runs fine with this specific data. If it doesn't, you'll need to diagnose the cause and change your code to resolve the problem. If you're using JSDoc, you'll likely want to update the typedef, too. (This statement is intentionally vague so it doesn't provide the solution to a problem YOU have to work through!)
 
 ### Optional: Add an Episode Selector
