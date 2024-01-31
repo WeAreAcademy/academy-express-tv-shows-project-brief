@@ -2,8 +2,9 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-## Stop: Don't fork, or clone this repo, nor use it as a template!  
-This page repo is just the project brief - just a reference.  It doesn't contain the starter code.  There's not much point you making any sort of clone of this repo unless you want to work offline.  Otherwise, just read it in place on github.
+## Stop: Don't fork, or clone this repo, nor use it as a template!
+
+This page repo is just the project brief - just a reference. It doesn't contain the starter code. There's not much point you making any sort of clone of this repo unless you want to work offline. Otherwise, just read it in place on github.
 
 ## Overview
 
