@@ -94,6 +94,7 @@ Why? If your app is later extended to allow the downloading of episode data for 
 This project is broken into various levels:
 
 -   [level 100](./level-100.md)
+-   [level 150](./level-150.md)
 -   [level 200](./level-200.md)
 -   [level 250](./level-250.md)
 -   [level 300](./level-300.md)

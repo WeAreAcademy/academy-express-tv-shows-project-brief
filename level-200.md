@@ -16,4 +16,4 @@ Here is one example layout.
 
 ![level 200 example screenshot showing search](./example-screenshots/example-search.jpg)
 
-[<< level 100](./level-100.md) - [top](./readme.md) - [level 250 >>](./level-250.md)
+[<< level 150](./level-150.md) - [top](./readme.md) - [level 250 >>](./level-250.md)
