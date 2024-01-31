@@ -95,6 +95,7 @@ This project is broken into various levels:
 
 -   [level 100](./level-100.md)
 -   [level 200](./level-200.md)
+-   [level 250](./level-250.md)
 -   [level 300](./level-300.md)
 -   [level 350](./level-350.md)
 -   [level 400](./level-400.md)
