@@ -69,13 +69,15 @@ Make a new repo from the following starter code by clicking "Use as template" in
 
 -   Import the JSON data into a variable at the top of your `app.js` as follows:
 
-`const {gameOfThronesEpisodes} from './data/gameOfThronesData.js'`
+`const {gameOfThronesEpisodes} = require('./data/gameOfThronesData.js')`
 
--   Check the import was successful by adding the following after the import and checking the browser's console when the app loads.
+-   Check the import was successful by adding the following after the require line, and checking the node.js log output when the app starts.
 
 ```
 console.log(`Imported ${gameOfThronesEpisodes.length} episode(s)`);
 console.log(`First episode's name is ${gameOfThronesEpisodes[0].name}`);
+
+#### JSDoc and an initial typedef for an "Episode" object
 
 Note: For those wanting to use JSDoc, a naive type-definition of an episode object has been provided and imported into app.js.  It includes some intentional imperfections which you may need to address later in the project, but it should be fine to get started with.
 
