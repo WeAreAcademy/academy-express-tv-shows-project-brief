@@ -1,6 +1,6 @@
 # Level 250 - Add Favourite episodes
 
-1. Complete all requirements from Level 200
+1. Complete all requirements from previous levels
 1. Add a "Mark as Favourite" button on each episode
     1. A user should be able to click on "Mark as Favourite" (or appropriate icon (e.g. an unlit star)) on any episode to mark it as a favourite.
     1. Episodes which are already a favourite should indicate that (e.g. with a lit star icon)

@@ -1,6 +1,6 @@
 # Level 200 - Add Search
 
-1. Complete all requirements from Level 100
+1. Complete all minimal requirements from previous levels
 1. Add a "live" search input:
     1. Only episodes whose `summary` **OR** `name` contains the search term should be displayed
     1. The search should be case-**in**sensitive
